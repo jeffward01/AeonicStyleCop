@@ -1,0 +1,8 @@
+{
+  “$schema”: https://raw.githubusercontent.com/jeffward01/AeonicStyleCop/master/AeonicStyleCopRules.json",
+  “settings”: {
+    “orderingRules”: {
+      “usingDirectivesPlacement”: “outsideNamespace”
+    }
+  }
+}
