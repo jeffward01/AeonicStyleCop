@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/48870718/how-to-ship-the-stylecop-json-and-custom-ruleset-files-with-a-nuget-package-in-v
